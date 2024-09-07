@@ -1,0 +1,4 @@
+name: drawbridgestudios
+recipe: lamp
+config:
+  webroot: .
